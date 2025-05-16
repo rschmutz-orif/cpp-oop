@@ -1,0 +1,139 @@
+[{
+    "color":"black",
+    "pieces": [
+        {
+            "type":"Rook",
+            "position": "a8"
+        },
+        {
+            "type":"Knight",
+            "position": "b8"
+        },
+        {
+            "type":"Bishop",
+            "position": "c8"
+        },
+        {
+            "type":"King",
+            "position": "d8"
+        },
+        {
+            "type":"Queen",
+            "position": "e8"
+        },
+        {
+            "type":"Bishop",
+            "position": "f8"
+        },
+        {
+            "type":"Knight",
+            "position": "g8"
+        },
+        {
+            "type":"Rook",
+            "position": "h8"
+        },
+        {
+            "type":"Pawn",
+            "position": "a7"
+        },
+        {
+            "type":"Pawn",
+            "position": "b7"
+        },
+        {
+            "type":"Pawn",
+            "position": "c7"
+        },
+        {
+            "type":"Pawn",
+            "position": "d7"
+        },
+        {
+            "type":"Pawn",
+            "position": "e7"
+        },
+        {
+            "type":"Pawn",
+            "position": "f7"
+        },
+        {
+            "type":"Pawn",
+            "position": "g7"
+        },
+        {
+            "type":"Pawn",
+            "position": "h7"
+        }
+    ]
+    
+},{
+    "color":"white",
+    "pieces": [
+        {
+            "type":"Rook",
+            "position": "a1"
+        },
+        {
+            "type":"Knight",
+            "position": "b1"
+        },
+        {
+            "type":"Bishop",
+            "position": "c1"
+        },
+        {
+            "type":"King",
+            "position": "d1"
+        },
+        {
+            "type":"Queen",
+            "position": "e1"
+        },
+        {
+            "type":"Bishop",
+            "position": "f1"
+        },
+        {
+            "type":"Knight",
+            "position": "g1"
+        },
+        {
+            "type":"Rook",
+            "position": "h1"
+        },
+        {
+            "type":"Pawn",
+            "position": "a2"
+        },
+        {
+            "type":"Pawn",
+            "position": "b2"
+        },
+        {
+            "type":"Pawn",
+            "position": "c2"
+        },
+        {
+            "type":"Pawn",
+            "position": "d2"
+        },
+        {
+            "type":"Pawn",
+            "position": "e2"
+        },
+        {
+            "type":"Pawn",
+            "position": "f2"
+        },
+        {
+            "type":"Pawn",
+            "position": "g2"
+        },
+        {
+            "type":"Pawn",
+            "position": "h2"
+        }
+    ]
+    
+}]
